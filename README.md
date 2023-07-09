@@ -2,7 +2,7 @@
 
 Class: A class is a collection of objects. It just does a classification, separation, and segmentation.
 
-Objects: object is a real-world entity, real-time entity, actual data, or real function.
+Objects: object is a real-world entity, real-time entity, actual data, or real function. Object is nothing but a class variable.
 
 Constructor: This is a special method that is automatically called when an object of a class is created. Use to initialize the object's attributes and perform any necessary setup. It is responsible to provide data.
 - constructor method:  __init__():  it is defined within a class and takes the "self" parameter as the first parameter.
